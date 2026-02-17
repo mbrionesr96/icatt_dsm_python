@@ -1,7 +1,13 @@
 # Source
-This repository compiles the exercises from the 2026 course Python for Data Science february 2026, from the MSc Data Science for Management of Università Cattolica del Sacro Cuore (Milano). 
+This repository compiles the lessons and exercises from the 2026 course Python for Data Science february 2026, from the MSc Data Science for Management of Università Cattolica del Sacro Cuore (Milano). 
 
-# Set python 
+# Class 1: Set python 
 
-To be able to work on jupyter we ned to initialize conda on the terminal with the name of our environoment `conda activate myenv3143` and then initialize jupyter with 
+Installation of python, miniconda, jupyter library to use notebooks and sync with Git and Github.
+
+From this point onwards, in order to be able to work on jupyter we need to initialize the terminal from the folder of our repository, activate our conda environoment with `conda activate myenv3143` and then initialize jupyter with 
 `jupyther notebook`.
+
+# Class 2: First steps on python
+
+We reviewed the basics for python syntax, definition of functions, definition of variables and their different types.
