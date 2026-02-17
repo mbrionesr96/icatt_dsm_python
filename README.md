@@ -11,3 +11,7 @@ From this point onwards, in order to be able to work on jupyter we need to initi
 # Class 2: First steps on python
 
 We reviewed the basics for python syntax, definition of functions, definition of variables and their different types.
+you will find two scripts with the same date:
+
+* Notes are on the notebook **Class 2**.
+* While the notebook **Hands on practice** summarises the exercises done during and after class.
